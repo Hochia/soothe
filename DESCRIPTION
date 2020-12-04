@@ -1,0 +1,17 @@
+Package: soothe
+Type: Package
+Title: File Processing
+Version: 0.1.0
+Authors@R: 
+    person(given = "Ho",
+           family = "Chia",
+           role = c("aut", "cre"),
+           email = "r08h41005@ntu.edu.tw")
+Maintainer: The package maintainer <r08h41005@ntu.edu.tw>
+Description: Combine pdf and multimedia files. Unzip .rar folders.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    stringr (>= 1.4.0)
