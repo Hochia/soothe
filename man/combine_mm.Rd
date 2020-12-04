@@ -19,5 +19,6 @@ Combine multimedia files in a folder
 }
 \examples{
 # folder named "Heart_of_Darkness"
-combine_mm("Heart_of_Darkness")
+x = combine_mm("Heart_of_Darkness")
+x # able to see the Powershell output
 }
